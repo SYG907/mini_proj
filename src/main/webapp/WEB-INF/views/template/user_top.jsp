@@ -39,4 +39,4 @@
 	</nav>
 
 	<div class="container-fluid">
-  <div class="row content">
+<!--   <div class="row content"> -->
